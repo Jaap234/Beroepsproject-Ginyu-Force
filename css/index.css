@@ -78,3 +78,19 @@ p {
     min-width: 200px;
     margin-bottom: 50px;
 }
+
+.foot {
+    flex: 1;
+    text-align: center;
+}
+
+.foot ul {
+    display: inline-block;
+    list-style: none;
+}
+
+.foot ul li {
+    display: inline-block;
+    margin-right: 20px;
+    padding-bottom: 20px;
+}

@@ -1,0 +1,14 @@
+body {
+    background-color: #46717a;
+} .box-container {
+    display: grid;
+    width: 100%;
+    height: 1200px;
+    border: solid white;
+} .content {
+    display: block;
+    border: solid white;
+    
+}
+border: solid 3px @border;
+    transition: border-width 0.1s linear;
